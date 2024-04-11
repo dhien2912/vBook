@@ -2,7 +2,7 @@
   "metadata": {
     "name": "Net Truyện",
     "author": "vvvk",
-    "version": 30,
+    "version": 31,
     "source": "https://www.nettruyentt.com",
     "regexp": "(www.)?nettruyen[a-z]*.(com|vn|net)/truyen-tranh/[^/]+/?$",
     "description": "Đọc truyện trên trang Net Truyện",
