@@ -1,0 +1,20 @@
+{
+  "metadata": {
+    "author": "Nettruyen",
+    "description": ""
+  },
+  "data": [
+    {
+      "name": "Nét Truyện",
+      "author": "Nettruyen",
+      "path": "https://raw.githubusercontent.com/dhien2912/vBook/main/Nettruyen/plugin.zip",
+      "version": 31,
+      "type": "comic",
+      "locale": "vi_VN",
+      "source": "https://www.nettruyentt.com",
+      "icon": "https://raw.githubusercontent.com/dhien2912/vBook/main/Nettruyen/icon.png",
+      "description": "Đọc truyện trên trang Net Truyện"
+    }
+
+  ]
+}
