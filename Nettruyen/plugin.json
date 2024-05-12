@@ -1,7 +1,7 @@
 {
   "metadata": {
-    "name": "Net Truyện",
-    "author": "vvvk",
+    "name": "Nét Truyện",
+    "author": "vBook2",
     "version": 333,
     "source": "https://www.nettruyencc.com",
     "regexp": "(www.)?nettruyen[a-z]*.(com|vn|net)/truyen-tranh/[^/]+/?$",
