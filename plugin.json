@@ -1,12 +1,12 @@
 {
   "metadata": {
-    "author": "Nettruyen",
+    "author": "Netruyen",
     "description": ""
   },
   "data": [
     {
       "name": "Nét Truyện",
-      "author": "Nettruyen",
+      "author": "Netruyen",
       "path": "https://raw.githubusercontent.com/dhien2912/vBook/main/Nettruyen/plugin.zip",
       "version": 333,
       "type": "comic",
